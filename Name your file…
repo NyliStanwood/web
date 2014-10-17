@@ -1,0 +1,13 @@
+Importar stilos
+
+<style type="text/css"> 
+@import url("estilo.css"); 
+body{ 
+   background-color:#ffffcc; 
+} 
+</style> 
+
+
+o usar 
+
+<link rel="stylesheet" type="text/css" href="hoja.css">
