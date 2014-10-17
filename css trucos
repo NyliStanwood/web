@@ -1,0 +1,5 @@
+.nombredelaclase {atributo: valor;atributo2:valor2; ...} 
+
+Una vez tenemos una clase, podemos utilizarla en cualquier etiqueta HTML de esta forma:
+ 
+<ETIQUETA class="nombredelaclase"> 
